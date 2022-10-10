@@ -15,3 +15,7 @@ Multiple “clients” that connect to the hub which can both publish and subscr
 Must operate over a network.
 
 **Libraries, Packages, & System Requirements:** NPM Chance, Socket io, Socket io-client.
+
+## UML
+
+![dev-connections uml](./img/Screen%20Shot%202022-10-09%20at%202.08.31%20PM.png)
